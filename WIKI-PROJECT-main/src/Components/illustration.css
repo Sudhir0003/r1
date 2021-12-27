@@ -1,0 +1,109 @@
+.imp{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 100;
+    line-height: 1.666;
+    background: #EFEFEF;
+    color: #555;
+  }
+  
+    *{
+      padding:0;
+      margin:0;
+    }
+    body h1 {
+      font-weight: 900;
+      font-size: 500%;
+      text-align: center;
+      margin: 4rem;
+      color: #fff;
+      line-height: 1.2;
+    }
+    
+    body h1 span {
+      border-radius: 1rem;
+      padding: 5px 15px;
+      background: #2ec2b0;
+    }
+    body p{
+      text-align:center;
+      font-weight: 900;
+      font-size: 2.8em;
+      color: #2ec2b0;
+      margin: 2rem;
+    }
+    body p span{
+      border-radius: 1rem;
+      padding: 5px 15px;
+      background: #fff;
+    }
+      .illh3{
+      text-align: center;
+      font-weight:700;
+      color: #6b6969;
+      margin-left: 250px;
+      margin-right: 100px;
+      margin-top: 150px;
+      }
+      body h2{
+        text-align: center;
+        font-weight:700;
+        color: #6b6969;
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-bottom: 40px;
+        margin-top: 40px;
+        }
+  
+    .container {
+      padding:0;
+      margin: 0;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center
+    }
+    .container1{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+    }
+    img {
+      height: 300px;
+      width: 300px;
+      border: 5px solid #555;
+    }
+    
+    .dog {
+      padding-left: 50px;
+      align-items: center;
+    }
+    
+    .text {
+      display: inline-flex;
+      align-items: center;
+      font-size: 30px;
+      padding-bottom:150px;
+    }
+    .WIKI_heading{
+      text-decoration: none;
+      font-family: "Lora";
+        font-weight: 700;
+        color:white;
+        font-size: 2em;
+        cursor: pointer;
+    }
+    .me-auto{
+      margin-left: 600px;
+    }
+    .toedit{
+      margin: 1.2rem 0.5rem 1.2rem;
+      font-size: 1.1em;
+      color:white;
+      transition: 500ms;
+    }
+    .toedit1{
+      margin: 1.2rem 0.5rem 1.2rem;
+      font-size: 1.1em;
+      color:white;
+      transition: 500ms;
+    }
+  

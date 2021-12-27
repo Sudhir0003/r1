@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  .imp{
+      font-family: "Montserrat", sans-serif;
+      font-weight: 100;
+      background: #EFEFEF;
+      color: #555;
+  }
+  .page{
+    height: 80vh;
+    background-color: #EFEFEF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+  
+  }
+  .container2{
+    margin-top:30px;
+    height: 660px;
+    width: 470px;
+    border-radius: 10px;
+    background-color: #ffffff;
+  }
+  .heading{
+    text-align: center;
+    color:black;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0rem;
+    font-weight: bold;
+  
+  }
+  .img-holder{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    border: 3px black solid;
+    border-radius: 5px;
+    margin-top: 0rem;
+  }
+  .img{
+    width: 295px;
+    height: 295px;
+    object-fit:cover;
+  }
+  #input[type="file"] {
+      display: none;
+  }
+  .label{
+    width: 100%;
+    margin-top: 0.3rem;
+    display: flex;
+    justify-content: center;
+  }
+  body .image-upload{
+    margin-top:20px;
+    width: 200px;
+      height: 45px;
+    color: #ffffff;
+    border-radius: 10px;
+    background-color: #000000;
+    text-align: center;
+    cursor: pointer;
+  }
+  .material-icons{
+    transition:0.5s;
+    color:white;
+    font-size: 1rem;
+    margin:0.5rem;
+  }
+  
+  .head {
+    font-weight: 600;
+    font-size: 500%;
+    text-align: center;
+    margin-top:200px;
+    margin: 4rem;
+    color: #fff;
+    padding: 5px 15px;
+    line-height: 1.2;
+  }
+  
+  .head span {
+    border-radius: 1rem;
+    padding: 5px 15px;
+    margin-top:200px;
+    background: #2ec2b0;
+  }
+  .headed{
+    background-color: #EFEFEF;
+  }
+  
+  .WIKI_heading{
+    text-decoration: none;
+    font-family: "Lora";
+      font-weight: 700;
+      color:white;
+      font-size: 2em;
+      cursor: pointer;
+  }
+  .me-auto{
+    margin-left: 600px;
+  }
+  .toedit{
+    margin: 1.2rem 0.5rem 1.2rem;
+    font-size: 1.1em;
+    color:white;
+    transition: 500ms;
+  }
+  .toedit1{
+    margin: 1.2rem 0.5rem 1.2rem;
+    font-size: 1.1em;
+    color:white;
+    transition: 500ms;
+  }
+  .sexy{
+    color:#000000;
+    font-weight: bold;
+    font-size:2.2rem;
+    margin-top:15px;
+    text-align: center;
+  }
+  
